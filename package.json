@@ -1,0 +1,25 @@
+{
+  "name": "CompanyProfileGenerator",
+  "version": "1.0.0",
+  "description": "Company Employee Profile Generator",
+  "main": "app.js",
+  "dependencies": {
+    "inquirer": "^8.0.0",
+    "jest": "^26.6.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdrianMEvans/CompanyProfileGenerator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AdrianMEvans/CompanyProfileGenerator/issues"
+  },
+  "homepage": "https://github.com/AdrianMEvans/CompanyProfileGenerator#readme"
+}
